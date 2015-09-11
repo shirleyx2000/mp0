@@ -1,5 +1,6 @@
-CPEN 221 - Fall 2015 - MP0: Fibonacci Numbers
+CPEN 221 - Fall 2015 - MP0
 ===
+Fibonacci Numbers
 
 ## Background
 
@@ -20,5 +21,7 @@ Thus the first few numbers of the sequence are 1, 1, 2, 3, 5, 8, 13, 21, 34, 55.
 For the many of you that are also completing a course on differential equations in parallel, you should keep in mind that recurrences such as the Fibonacci recurrence are also called *difference equations* and one can obtain closed-form expressions for the sequence using techniques that are identical to solution techniques for ordinary differential equations.
 
 This first machine problem is to help you get started with Java, Git and GitHub, so the programming difficulty itself is quite low. You have two tasks to complete:
+
 1. Develop a method to compute the n<sup>th</sup> Fibonacci number and plot the execution times for the computation of the first 60  Fibonacci numbers as a graph.
+
 1. Develop a method to test if a given number *n* is a Fibonacci number or not.
