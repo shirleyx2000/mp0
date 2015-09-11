@@ -5,6 +5,8 @@ CPEN 221 - Fall 2015 - MP0
 ### Important Notes
 * Due September 18, by 6:00 p.m.
 * This is an *individual* assignment and you cannot use any late days for this assignment.
+* This assignment has a weight of 3% towards your final *raw* grade.
+* _This is a very gentle introduction to the material._ Our acceleration will be quite high. Please spend time understanding Java and trying out examples on your own.
 
 ### Background
 
@@ -37,7 +39,6 @@ This first machine problem is to help you get started with Java, Git and GitHub,
 1. You will start work by obtaining the initial code provided in this GitHub repository. To do so, open up a terminal (on a Linux or Mac OS X system) or Git Bash (on a Windows system), and then change your working directory to the workspace directory for Eclipse. You can use the `cd` command to achieve this.
 
 1. Once you have changed your working directory to the Eclipse workspace directory, you can clone this repository using the following command:
-
 ``git clone https://github.com/CPEN-221/mp0-fall2015``
 
 #### Step 2: Opening a new project in Eclipse
