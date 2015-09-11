@@ -1,8 +1,8 @@
 CPEN 221 - Fall 2015 - MP0
 ===
-Fibonacci Numbers
+**Fibonacci Numbers**
 
-## Background
+### Background
 
 We will start our foray into the elements of software construction with the classic question of computing the Fibonacci numbers.
 
