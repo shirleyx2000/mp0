@@ -33,10 +33,11 @@ public class CheckFib {
 	                prev = 0;
 	                current = 1; 
 	            }
-	            else
+	            else {
 	                next=current+prev; 
 	                prev = current;
 	                current = next; 
+	            }
 	            i++; 
 	    }
 	}

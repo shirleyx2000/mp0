@@ -31,20 +31,23 @@ public class Fibonacci {
 	    // Option 2: Iteration
         long current = 0;
         long next = 0;
+        long prev = 0;
         int i = 0;
-        long prev = 0; 
+        
 	    while (i <= n ) {
-	        if ( i == 0 )
+	        if ( i == 0 ) {
 	            current = 0;
+	        }
 	        else if (i == 1) {
 	            prev = 0;
 	            current = 1; 
 	        }
-	        else
+	        else {
 	            next=current+prev; 
 	            prev = current;
 	            current = next; 
-	        i++; 
+	        }
+	        i++;
     	    }
 	    
 	    return current; 
